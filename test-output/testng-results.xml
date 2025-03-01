@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="2" total="6" passed="4" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2025-02-07T23:11:45 IST" name="DemoSuite" finished-at="2025-02-07T23:11:45 IST" duration-ms="137">
+    <groups>
+    </groups>
+    <test started-at="2025-02-07T23:11:45 IST" name="Personal Loan" finished-at="2025-02-07T23:11:45 IST" duration-ms="51">
+      <class name="DemoFramework.DemoClass1">
+        <test-method signature="ploanLogin()[pri:0, instance:DemoFramework.DemoClass1@611889f4]" started-at="2025-02-07T23:11:45 IST" name="ploanLogin" finished-at="2025-02-07T23:11:45 IST" duration-ms="10" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ploanLogin -->
+      </class> <!-- DemoFramework.DemoClass1 -->
+      <class name="DemoFramework.DemoClass2">
+        <test-method signature="ploanInformation()[pri:0, instance:DemoFramework.DemoClass2@2c35e847]" started-at="2025-02-07T23:11:45 IST" name="ploanInformation" finished-at="2025-02-07T23:11:45 IST" duration-ms="3" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- ploanInformation -->
+      </class> <!-- DemoFramework.DemoClass2 -->
+    </test> <!-- Personal Loan -->
+    <test started-at="2025-02-07T23:11:45 IST" name="Car Loan" finished-at="2025-02-07T23:11:45 IST" duration-ms="8">
+      <class name="DemoFramework.DemoClass3">
+        <test-method signature="cloanEligibility()[pri:0, instance:DemoFramework.DemoClass3@7db12bb6]" started-at="2025-02-07T23:11:45 IST" name="cloanEligibility" finished-at="2025-02-07T23:11:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- cloanEligibility -->
+      </class> <!-- DemoFramework.DemoClass3 -->
+      <class name="DemoFramework.DemoClass4">
+        <test-method signature="CloanInformation()[pri:0, instance:DemoFramework.DemoClass4@783a467b]" started-at="2025-02-07T23:11:45 IST" name="CloanInformation" finished-at="2025-02-07T23:11:45 IST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- CloanInformation -->
+      </class> <!-- DemoFramework.DemoClass4 -->
+    </test> <!-- Car Loan -->
+  </suite> <!-- DemoSuite -->
+</testng-results>

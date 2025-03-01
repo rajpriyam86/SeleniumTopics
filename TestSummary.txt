@@ -1,0 +1,70 @@
+Test Summary Document
+====================
+
+Test Summary Document
+=====================
+
+Test result for JobCompletionCheck:
+Job Run ID: 4
+Job Run Status: RUNNING
+Start Time: 2024-09-09 11:30:00
+End Time: null
+
+Calling WinSCPJava to fetch and read the latest file...
+
+Error during fetching and reading file: java.net.ConnectException: Connection refused: connect
+
+End of Test Summary
+
+
+### Data extracted from the file for validation from line number 0 To 5
+===================================
+
+MRN: 705412
+Issues found: - Field Name: EFFECTIVE_START_DATE
+    * File Data: 01/02/2024
+    * DB Data: 01/01/2024
+    * Expected Data: 01/01/2024
+
+MRN: 578632 - This MRN doesn't exist in the database.
+
+********** Validation Summary **********
+Total MRNs Validated: 5
+Total MRNs with Issues: 2
+===================================
+End of Test Summary
+Test Summary Document
+====================
+
+Test Summary Document
+=====================
+
+Test result for JobCompletionCheck:
+Job Run ID: 4
+Job Run Status: RUNNING
+Start Time: 2024-09-09 11:30:00
+End Time: null
+
+Calling WinSCPJava to fetch and read the latest file...
+
+Error during fetching and reading file: java.net.ConnectException: Connection refused: connect
+
+End of Test Summary
+
+
+### Data extracted from the file for validation from line number 0 To 5
+===================================
+
+MRN: 705412
+Issues found: - Field Name: EFFECTIVE_START_DATE
+    * File Data: 01/02/2024
+    * DB Data: 01/01/2024
+    * Expected Data: 01/01/2024
+
+MRN: 578632 - This MRN doesn't exist in the database.
+
+********** Validation Summary **********
+Total MRNs Validated: 5
+Total MRNs with Issues: 2
+===================================
+End of Test Summary
